@@ -1,0 +1,59 @@
+/*
+Theme Name: Photo Theme
+Author: Ben Henríquez Vega
+Version: 1.0
+Description: Este es mi tercer tema para wordpress
+*/
+
+.cabecera {font-family: montserrat-alternates, sans-serif;
+
+    font-weight: 900;
+    
+    font-style: italic;}
+
+.carrucel {font-family: montserrat-alternates, sans-serif;
+
+    font-weight: 900;
+    
+    font-style: italic;}
+
+.albumes {font-family: aglet-slab, sans-serif;
+
+    font-weight: 500;
+    
+    font-style: normal;}
+
+.historia {font-family: ff-dax-pro-wide, sans-serif;
+
+    font-weight: 900;
+    
+    font-style: italic;}
+
+
+.banner {height: 300px;
+    background-size: cover;}
+    
+
+
+.fondo {background-color: #000; width: auto; height: auto; padding-top: 2%;}
+.color {color: #000;}
+
+.fondo-jumbotron {background-image: url(img/fondo1.jpg); 
+    min-height: 500px; background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.icono { font-size: 2em; color:#fff}
+
+.card-margen {margin-top: 1em;}
+
+.borde { border-top:5px #007bff solid}
+
+#menuprincipal {list-style: none; }
+#menuprincipal li{ display: inline-block; margin:0 10px}
+#menuprincipal a {color: #fff; text-transform: uppercase; }
+
+#menufooter {list-style: none; }
+#menufooter li{ display: inline-block; margin:0 10px}
+#menufooter a {color: #fff; text-transform: uppercase; }
